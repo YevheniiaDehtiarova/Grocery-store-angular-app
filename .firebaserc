@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "shop-card-492e1"
+  },
+  "targets": {
+    "shop-card-492e1": {
+      "hosting": {
+        "shop": [
+          "shop-card-492e1"
+        ]
+      }
+    }
+  }
+}
